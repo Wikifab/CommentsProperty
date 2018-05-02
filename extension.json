@@ -1,0 +1,23 @@
+{
+	"name": "Comments Property",
+	"author": "Julien",
+	"url": "https://www.mediawiki.org/wiki/Extension:CommentsProperty",
+	"descriptionmsg": "commentsproperty-desc",
+	"version": "1.0",
+	"license-name": "GPL-2.0+",
+	"type": "other",
+	"AutoloadClasses": {
+		"CommentsProperty\\CommentsProperty": "CommentsProperty.php"
+	},
+	"MessagesDirs": {
+		"CommentsProperty": [
+			"i18n"
+		]
+	},
+	"callback": "CommentsProperty\\CommentsProperty::onExtension",
+	"ResourceFileModulePaths": {
+		"localBasePath": "",
+		"remoteExtPath": "CommentsProperty"
+	},
+	"manifest_version": 1
+}

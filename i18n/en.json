@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Julien"
+		]
+	},
+	"comments": "Comments counter",
+	"commentsproperty-desc" : "Adds Comment property annotator to Semantic Extra Special Properties."
+}

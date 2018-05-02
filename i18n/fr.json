@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Julien"
+		]
+	},
+	"comments": "Nombre de commentaires",
+	"commentsproperty-desc" : "Ajoute une propriété spéciale Commentaires à l'extension Semantic Extra Secial Properties."
+}

@@ -1,0 +1,8 @@
+{
+    "name": "wikifab/comments-property",
+    "description": "comments counter with CommentStreams",
+    "type": "mediawiki-extension",
+    "require": {
+    	"wikifab/google-analytics-metrics" : "*"
+    }
+}
