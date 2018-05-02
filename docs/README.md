@@ -8,4 +8,4 @@ The label is : Comments
 
 ## Dependencies : 
 
-SemanticExtraSpecialProperties
+SemanticExtraSpecialProperties, CommentStreams
